@@ -1,11 +1,10 @@
 
-import './App.css';
-
+import Resturent from "./components/Layouts/Resturent";
 function App() {
   return (
-    <div className="App">
-     Lets Start to make a food app
-    </div>
+    <>
+    <Resturent/>
+    </>
   );
 }
 
